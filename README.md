@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal and university projects**
 
-- 🌱 I’m currently learning **Java Swing, Python Data Science, SQL, React**
+- 🌱 I’m currently learning **Java, Python Data Science, SQL, React**
 
 - 💬 Ask me about **Java, Python**
 
